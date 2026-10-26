@@ -1,0 +1,73 @@
+{
+  "data_dir": "../gpt/1022/长征文献试点",
+  "sources": [
+    {
+      "host": "www.dswxyjy.org.cn",
+      "institution": "中共中央党史和文献研究院",
+      "seeds": [
+        "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html"
+      ]
+    },
+    {
+      "host": "www.hbdsw.org.cn",
+      "institution": "中共湖北省委党史研究室",
+      "seeds": [
+        "https://www.hbdsw.org.cn/tbgz/zggcd/fjlc/202110/t4544087.shtml"
+      ]
+    },
+    {
+      "host": "www.ccdi.gov.cn",
+      "institution": "中央纪委国家监委",
+      "seeds": [
+        "https://www.ccdi.gov.cn/special/jdybzn/yaowen_jdybn/202106/t20210628_244895.html"
+      ]
+    },
+    {
+      "host": "www.ccphistory.org.cn",
+      "institution": "中共上海市委党史研究室",
+      "seeds": [
+        "https://www.ccphistory.org.cn/shds/shhm/content/49e64f68-b830-4d5d-8882-3ae4b9d0a3c8.html"
+      ]
+    }
+  ],
+  "people": [
+    "毛泽东",
+    "周恩来",
+    "朱德",
+    "彭德怀",
+    "刘伯承",
+    "贺龙",
+    "任弼时",
+    "徐向前",
+    "张国焘",
+    "徐海东",
+    "程子华",
+    "吴焕先",
+    "陈树湘",
+    "王稼祥",
+    "博古",
+    "李德"
+  ],
+  "places": [
+    "瑞金",
+    "于都",
+    "湘江",
+    "遵义",
+    "赤水",
+    "金沙江",
+    "大渡河",
+    "泸定桥",
+    "夹金山",
+    "松潘",
+    "懋功",
+    "哈达铺",
+    "腊子口",
+    "吴起",
+    "会宁",
+    "将台堡",
+    "何家冲",
+    "永坪",
+    "陕北"
+  ],
+  "max_bytes": 20971520
+}

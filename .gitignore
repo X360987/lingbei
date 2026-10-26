@@ -1,0 +1,30 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local credentials; commit example files only
+.env
+.env.*
+!.env.example
+
+# Collection runtime data and generated exports (keep research notes)
+/gpt/1022/长征文献试点/raw/
+/gpt/1022/长征文献试点/exports/
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Local release archive; website sources remain tracked
+/archive.zip
+
+# OS and Office temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*

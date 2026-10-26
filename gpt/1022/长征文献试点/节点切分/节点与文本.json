@@ -1,0 +1,413 @@
+{
+  "scope": "仅基于现有非排除文献，不代表完整长征过程；节点编号是展示顺序，并非所有部队的统一时间线。",
+  "sources": [
+    {
+      "id": "ee497c39ccb781c00f2d",
+      "title": "长征·光辉历程",
+      "url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "institution": "中共中央党史和文献研究院",
+      "original_source": "人民网－人民日报",
+      "document_status": "已确认",
+      "body_sha256": "e38d1b1f2e91cd5cab95fd44e658c0991100d55c03075ccaea4f881b3f64d915"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "N01",
+      "title": "北上抗日先遣行动",
+      "category": "前期行动",
+      "evidence_chunks": [
+        "ee497c39ccb781c00f2d:633-668"
+      ],
+      "status": "原文支持，节点重要性为整理判断"
+    },
+    {
+      "id": "N02",
+      "title": "红二十五军开始战略转移",
+      "category": "部队出发",
+      "evidence_chunks": [
+        "ee497c39ccb781c00f2d:668-700"
+      ],
+      "status": "原文支持，节点重要性为整理判断"
+    },
+    {
+      "id": "N03",
+      "title": "红一、红四方面军会师",
+      "category": "部队会师",
+      "evidence_chunks": [
+        "ee497c39ccb781c00f2d:773-835"
+      ],
+      "status": "原文支持，节点重要性为整理判断"
+    },
+    {
+      "id": "N04",
+      "title": "提出在川陕甘建立革命根据地的设想",
+      "category": "战略决策",
+      "evidence_chunks": [
+        "ee497c39ccb781c00f2d:773-835"
+      ],
+      "status": "原文支持，节点重要性为整理判断"
+    },
+    {
+      "id": "N05",
+      "title": "长征到达陕北",
+      "category": "到达节点",
+      "evidence_chunks": [
+        "ee497c39ccb781c00f2d:835-919"
+      ],
+      "status": "原文支持，节点重要性为整理判断"
+    },
+    {
+      "id": "N06",
+      "title": "红一方面军东征",
+      "category": "后续行动",
+      "evidence_chunks": [
+        "ee497c39ccb781c00f2d:835-919"
+      ],
+      "status": "原文支持，节点重要性为整理判断"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "ee497c39ccb781c00f2d:92-335",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 92,
+      "end": 335,
+      "paragraph": 8,
+      "text": "1934年10月至1936年10月，中国共产党领导的中央红军（后恢复红一方面军番号），红二十五军，红四方面军，红二、红六军团（后编为红二方面军）主力，为粉碎国民党军队的军事“围剿”，保存有生力量，实现北上抗日，陆续离开原革命根据地进行战略转移，经过艰苦卓绝的万里行军（中央红军长征二万五千里），纵横十几省，跨越滔滔急流，征服皑皑雪山，穿越茫茫草地，突破层层封锁，粉碎上百万敌军的围追堵截，胜利前进至陕甘宁地区，实现红军主力大会师，以陕甘宁根据地为大本营和出发点，开启了中国革命的新阶段。",
+      "category": "长征总体过程",
+      "nodes": [],
+      "dates_explicit": [
+        "1934年10月",
+        "1936年10月"
+      ],
+      "units": [
+        "中央红军",
+        "红一方面军",
+        "红二方面军",
+        "红四方面军",
+        "红二十五军",
+        "红六军团"
+      ],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:335-359",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 335,
+      "end": 359,
+      "paragraph": 8,
+      "text": "历史上把中国工农红军的这一伟大壮举称为“长征”。",
+      "category": "背景及补充材料",
+      "nodes": [],
+      "dates_explicit": [],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:368-436",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 368,
+      "end": 436,
+      "paragraph": 10,
+      "text": "1931年九一八事变后，全国性抗日救亡运动兴起，中国政治形势开始发生深刻变化，民族斗争和阶级斗争进入一个新的阶段，中共开始逐步调整政策。",
+      "category": "历史背景",
+      "nodes": [],
+      "dates_explicit": [
+        "1931年"
+      ],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:436-486",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 436,
+      "end": 486,
+      "paragraph": 10,
+      "text": "中共中央迅速发表宣言和决议，号召全国民众以民族革命战争驱逐日本帝国主义出中国，争得民族的解放与独立。",
+      "category": "背景及补充材料",
+      "nodes": [],
+      "dates_explicit": [],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:486-534",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 486,
+      "end": 534,
+      "paragraph": 10,
+      "text": "1932年4月15日，中华苏维埃共和国临时中央政府主席毛泽东发表《对日战争宣言》，正式对日宣战。",
+      "category": "历史背景",
+      "nodes": [],
+      "dates_explicit": [
+        "1932年4月15日"
+      ],
+      "units": [],
+      "people": [
+        "毛泽东"
+      ],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:534-581",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 534,
+      "end": 581,
+      "paragraph": 10,
+      "text": "1933年1月，中共首次提出中国工农红军准备在三个条件下同任何武装部队订立共同对日作战的协定。",
+      "category": "历史背景",
+      "nodes": [],
+      "dates_explicit": [
+        "1933年1月"
+      ],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:581-632",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 581,
+      "end": 632,
+      "paragraph": 10,
+      "text": "同年10月，中华苏维埃共和国临时中央政府与起兵反蒋抗日的福建政府及十九路军签订《反日反蒋的初步协定》。",
+      "category": "历史背景",
+      "nodes": [],
+      "dates_explicit": [],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:633-668",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 633,
+      "end": 668,
+      "paragraph": 11,
+      "text": "1934年7月，红七军团改称北上抗日先遣队，经福建北上到闽浙皖赣边区。",
+      "category": "节点材料",
+      "nodes": [
+        "N01"
+      ],
+      "dates_explicit": [
+        "1934年7月"
+      ],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:668-700",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 668,
+      "end": 700,
+      "paragraph": 11,
+      "text": "11月，红二十五军以北上抗日第二先遣队名义，踏上战略转移的征途。",
+      "category": "节点材料",
+      "nodes": [
+        "N02"
+      ],
+      "dates_explicit": [],
+      "units": [
+        "红二十五军"
+      ],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:700-773",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 700,
+      "end": 773,
+      "paragraph": 11,
+      "text": "各路红军在长征中始终坚持抗日救国的政治目标，沿途大力宣传抗日救国主张，发动群众开展抗日救国运动，帮助组建抗日义勇军、抗日救国军、抗日大同盟等组织。",
+      "category": "沿途政治与群众工作",
+      "nodes": [],
+      "dates_explicit": [],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:773-835",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 773,
+      "end": 835,
+      "paragraph": 11,
+      "text": "特别是红一、红四方面军会师后，毛泽东提出在川陕甘地区建立革命根据地的设想，其中一个重要考虑就是北上抗日，以促进全国抗日高潮。",
+      "category": "节点材料",
+      "nodes": [
+        "N03",
+        "N04"
+      ],
+      "dates_explicit": [],
+      "units": [
+        "红四方面军"
+      ],
+      "people": [
+        "毛泽东"
+      ],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:835-919",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 835,
+      "end": 919,
+      "paragraph": 11,
+      "text": "长征到达陕北后，为打通抗日路线和巩固扩大陕甘革命根据地，红一方面军以中国人民红军抗日先锋军名义东征，进一步扩大红军力量，宣传党的抗日主张，有力推动了抗日救国运动的开展。",
+      "category": "节点材料",
+      "nodes": [
+        "N05",
+        "N06"
+      ],
+      "dates_explicit": [],
+      "units": [
+        "红一方面军"
+      ],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:919-972",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 919,
+      "end": 972,
+      "paragraph": 11,
+      "text": "由陕甘革命根据地扩大而成的陕甘宁革命根据地最终成为全民族抗日救亡运动的策源地和八路军奔赴抗日前线的出发点。",
+      "category": "意义与后续影响",
+      "nodes": [],
+      "dates_explicit": [],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    },
+    {
+      "id": "ee497c39ccb781c00f2d:973-1031",
+      "document_id": "ee497c39ccb781c00f2d",
+      "source_title": "长征·光辉历程",
+      "source_url": "https://www.dswxyjy.org.cn/n1/2016/0930/c396983-28753123.html",
+      "original_source": "人民网－人民日报",
+      "start": 973,
+      "end": 1031,
+      "paragraph": 12,
+      "text": "拯救民族危亡和北上抗日，是中国共产党人的夙愿，是各路红军的旗帜，也是红军将士战胜千难万险取得长征最终胜利的强大动力。",
+      "category": "意义与后续影响",
+      "nodes": [],
+      "dates_explicit": [],
+      "units": [],
+      "people": [],
+      "review_status": "待核对"
+    }
+  ],
+  "excluded": [
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 0,
+      "end": 39,
+      "text": "中共中央党史和文献研究院>>热点专题>>史实辨析>>党史热点面对面>>党史事件",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 40,
+      "end": 47,
+      "text": "长征·光辉历程",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 48,
+      "end": 51,
+      "text": "作者：",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 52,
+      "end": 67,
+      "text": "发布时间：2016-09-30",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 68,
+      "end": 79,
+      "text": "来源：人民网－人民日报",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 80,
+      "end": 85,
+      "text": "分享到 ：",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 86,
+      "end": 91,
+      "text": "长征的定义",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 360,
+      "end": 367,
+      "text": "长征与北上抗日",
+      "reason": "导航、元数据或章节标题"
+    },
+    {
+      "document_id": "ee497c39ccb781c00f2d",
+      "start": 1032,
+      "end": 1059,
+      "text": "《 人民日报 》（ 2016年09月30日 06 版）",
+      "reason": "导航、元数据或章节标题"
+    }
+  ]
+}

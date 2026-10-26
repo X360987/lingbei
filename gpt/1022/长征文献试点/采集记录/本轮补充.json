@@ -1,0 +1,33 @@
+{
+  "collected_at": "2026-10-22T18:25:45.055055",
+  "results": [
+    {
+      "url": "https://www.hbdsw.org.cn/tbgz/zggcd/fjlc/202110/t4544087.shtml",
+      "state": "失败",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hbdsw.org.cn'. (_ssl.c:1010)>"
+    },
+    {
+      "url": "https://www.ccdi.gov.cn/special/jdybzn/yaowen_jdybn/202106/t20210628_244895.html",
+      "state": "失败",
+      "error": "无法确认 robots.txt：HTTP 302"
+    },
+    {
+      "id": "1e5c3ebc459db8c0bf19",
+      "message": "已采集，保留已有核对记录",
+      "url": "https://www.ccphistory.org.cn/shds/shhm/content/49e64f68-b830-4d5d-8882-3ae4b9d0a3c8.html",
+      "state": "成功"
+    },
+    {
+      "id": "b7b2134f967755b3984c",
+      "message": "采集完成；请核对文献性质与正文完整性",
+      "url": "https://www.dswxyjy.org.cn/n1/2016/0929/c218998-28749730.html",
+      "state": "成功"
+    },
+    {
+      "id": "83d7c06a58d85dcf0f74",
+      "message": "采集完成；请核对文献性质与正文完整性",
+      "url": "https://www.dswxyjy.org.cn/n1/2016/1107/c349473-28841860.html",
+      "state": "成功"
+    }
+  ]
+}
